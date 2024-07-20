@@ -123,4 +123,9 @@ return [
         'store' => env('APP_MAINTENANCE_STORE', 'database'),
     ],
 
+    /*
+     * wordpress redirect url
+     */
+    'wordpress' => env('WORDPRESS_URL', 'Laravel'),
+
 ];
