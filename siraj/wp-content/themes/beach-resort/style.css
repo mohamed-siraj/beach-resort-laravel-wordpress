@@ -1,0 +1,13 @@
+/*
+Theme Name: Beach Resort
+Theme URI: https://techcodz.com
+Author: Your Mohamed Siraj
+Author URI: https://mohamed-siraj.techcodz.com
+Description: This is just resort home page design.
+Version: 1.0
+Text Domain: beach-resort
+*/
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
